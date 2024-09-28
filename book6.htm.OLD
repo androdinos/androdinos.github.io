@@ -1,0 +1,616 @@
+<html>
+<head>
+<title>
+ELECTROMAGNETIC SCATTERING GROUP presents the series of books</title>
+<meta name="Description" content="The development of scattering electrodynamic theory has been carried out 
+in the interests of the scattering characteristic research of radar objects. 
+The original calculation methods for the secondary radiation of aerial and ground 
+objects with compound shape and radioabsorbing coating has been adduced."> 
+<meta name="Keywords" content="radar, electromagnetic wave, scattering, radar object, radar cross-section,  free download
+"> 
+
+<STYLE TYPE="text/css">
+body{padding: 0;  height: 100%; position: relative; margin:0; 
+ -webkit-font-smoothing: antialiased; font-family: 
+'Fira Sans Condensed', sans-serif; color:#000; -webkit-tap-highlight-color: rgba(255, 255, 255, 1); }
+
+A:link  {text-decoration: none}
+A:visited  {text-decoration: none}
+
+.container{ 
+    display: -webkit-flex; /* Safari */     
+    display: flex; /* Standard syntax */
+
+ width:100%; margin: 0; padding: 0; position:relative; background-color:rgba(64, 64, 64, 0.8); }
+.container .main-left {
+     -webkit-flex: 1; /* Safari */
+    -ms-flex: 1; /* IE 10 */
+    flex: 1; /* Standard syntax */
+ margin: 0; width: calc(50% - 508px); display: inline-block; background-color:rgba(124, 146, 159, 1);
+background-image:url(img/backleft.jpg); background-repeat:no-repeat; background-position: right top;
+
+}
+.container .main-right{     
+     -webkit-flex: 1; /* Safari */
+    -ms-flex: 1; /* IE 10 */
+    flex: 1; /* Standard syntax */
+ margin: 0; width: calc(50% - 507px); display: inline-block; background-color:rgba(124, 146, 159, 1);
+background-image:url(img/backright.jpg); background-repeat:no-repeat; background-position: left top;
+
+}
+#main-center {   display: inline-block; margin: 0; padding: 20px; max-width:1015px;  background-color:rgba(255, 255, 255, 1) ;}
+
+
+.cover {
+margin: 10px 20px 30px 10px ; 
+width: 30%;
+max-width: 300 px;
+
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column {
+  float: left;
+  width: 20%;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #000;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.mySlides {
+  display: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.prev {
+  left: 50px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 50px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 8px 12px;
+  position: relative;
+  top:-30px;
+}
+
+
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+</STYLE>                  
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1251" />
+</head>
+<body  bgcolor="#ffffff" link=3333ff alink=3333ff vlink=3333ff  text=000000>
+
+<div class="container">
+<div class="main-left">
+</div><div id="main-center">
+<div align=right>
+<a href="index.html">Back to Home</a>
+</div>
+<center>
+<a href=index.html><img src="img/logo.png" border=0 width="80" height="78" ></a>
+<a href=index.html><img src="logo_prod_01.jpg" width="381" height="31" border="0" style="margin-bottom: 25px;"></a>
+<p>Electromagnetic Scattering Group<br />
+&<br />
+Professor Oleg I. Sukharevsky<br />
+present<br />
+the series of books with open access<br />  (almost all books)
+<br clear=all />
+</center>
+<hr size=1 noshade>
+<img src="img/book6.png" border=0 alt="Scattering Characteristics of Aerial and Ground Radar Objects (2024)" 
+align=left onclick="openModal();currentSlide(1)" class="cover hover-shadow cursor">
+<P><B><big>Scattering Characteristics of Aerial and Ground Radar Objects
+</big></B></P>
+<p>Authors: Oleg I. Sukharevsky, Vitaliy A. Vasilets 
+</p>
+<p>Year: 2024<p> 
+
+<p>To buy this book go to <a href="https://www.taylorfrancis.com/">Taylor & Fransis Group site</a> (after Jun 17, 2024).</p>   
+
+<!-- <p>To download the electronic appendix to this book  <a href="https://drive.google.com/file/d/1-QDt2qeXQcfVInU9tcd_LBk1x_7N6ABH/view?usp=drive_link" target="_blank" bis_skin_checked="1">CLICK HERE</a>.</p>
+<p>After book publication (in Jun 2024) here you can download the electronic appendix to this book.</p>
+
+<p>
+This book presents computations for various types of aerial and ground objects. At the beginning
+of the book, the authors explain the original electrodynamic methods that used for the
+calculations of the radar objects scattering characteristics. To make it easier for a reader to
+understand the book, all objects are divided into two main chapters, one of the chapter has the
+scattering characteristics of aerial objects of various types and another one contains data about
+scattering for many ground objects.
+</p>                                                                                                                                                               
+<p>
+This book contains the scattering characteristics for 63 aerial objects: there are fighters, attack
+aircrafts, bombers, long-range radar detection aircrafts, transport aircrafts, helicopters, unmanned
+aerial vehicles, cruise missiles in it. And there are 18 ground objects, including anti-aircraft
+missile systems and tanks in the book. Also, as an example, the reader finds the scattering
+characteristics of a surface ship.
+The book contains data obtained by computations such as backscattering diagrams; mean and
+median radar cross section values of various objects; distribution laws; amplitude scattering
+multipliers for different parameters of the probing signal and types of the underlying surface (for
+ground objects).
+</p>                                                                                                                                                               
+<p>
+This book is suited for the scientists who specialize in area of electromagnetic wave scattering by
+radar objects and for engineers who work with radar detection and recognition algorithms for
+aerial and ground radar targets.
+</p>                                                                                                                                                               
+<p>&nbsp;
+</p>
+<p>
+Contents
+</p>
+<p>
+Introduction
+</p>
+<p>
+Chapter 1 Brief description of calculation methods for scattering characteristics of aerial and ground objects
+</p>
+<p>
+Chapter 2 Scattering characteristics of aerial objects
+</p>
+<p>
+2.1. Multirole fighter Su-27
+</p>
+<p>
+2.2. Front-line fighter MiG-29
+</p>
+<p>
+2.3. Multirole fighter Su-57
+</p>
+<p>
+2.4. Tactical fighter F-22
+</p>
+<p>
+2.5. Multirole fighter F-35
+</p>
+<p>
+2.6. Multirole fighter F-16
+</p>
+<p>
+2.7. Air superiority fighter F-15
+</p>
+<p>
+2.8. Multirole attack and fighter aircraft F/A-18
+</p>
+<p>
+2.9. Multirole combat aircraft Tornado IDS
+</p>
+<p>
+2.10. Multirole fighter ÅF-2000 Typhoon
+</p>
+<p>
+2.11. Attack aircraft Su-25
+</p>
+<p>
+2.12. Attack aircraft A-10 Thunderbolt II
+</p>
+<p>
+2.13. Tactical bomber Su-24
+</p>
+<p>
+2.14. Long-range strategic bomber Tu-22M3
+</p>
+<p>
+2.15. Strategic bomber Tu-95
+</p>
+<p>
+2.16. Strategic bomber Tu-160
+</p>
+<p>
+2.17. Tactical bomber Su-34
+</p>
+<p>
+2.18. Strategic bomber B-2
+</p>
+<p>
+2.19. Strategic bomber B-52
+</p>
+<p>
+2.20. Strategic bomber B-1B
+</p>
+<p>
+2.21. Airborne early warning and control aircraft A-50
+</p>
+<p>
+2.22. Airborne early warning and control aircraft E-3A
+</p>
+<p>
+2.23. Airborne early warning and control aircraft E-2C
+</p>
+<p>
+2.24. Jet trainer aircraft L-39
+</p>
+<p>
+2.25. Transport aircraft An-26
+</p>
+<p>
+2.26. Strategic airlifter Il-76
+</p>
+<p>
+2.27. Medium-range airliner Boeing 737-400
+</p>
+<p>
+2.28. Multi-purpose helicopter Mi-8
+</p>
+<p>
+2.29 Multi-purpose combat helicopter Mi-24
+</p>
+<p>
+2.30. Unmanned aerial vehicle Tu-143 Reys
+</p>
+<p>
+2.31. Unmanned aerial vehicle Orlan-10
+</p>
+<p>
+2.32. Unmanned aerial vehicle RQ-1 Predator
+</p>
+<p>
+2.33. Unmanned aerial vehicle RQ-4 Global Hawk
+</p>
+<p>
+2.34. Unmanned aerial vehicle RQ-7 Shadow
+</p>
+<p>
+2.35. Unmanned aerial vehicle Bayraktar TB2
+</p>
+<p>
+2.36. Unmanned aerial vehicle Mohajer-6
+</p>
+<p>
+2.37. Unmanned aerial vehicle IAI Searcher II (Forpost)
+</p>
+<p>
+2.38. Unmanned aerial vehicle Dozor-600
+</p>
+<p>
+2.39. Unmanned aerial vehicle Kronshtadt Orion
+</p>
+<p>
+2.40. Loitering munition Shahed 136
+</p>
+<p>
+2.41. Cruise missile Kh-555
+</p>
+<p>
+2.42. Cruise missile Kh-101
+</p>
+<p>
+2.43. Cruise missile P-700 Granit
+</p>
+<p>
+2.44. Cruise missile P-800 Oniks
+</p>
+<p>
+2.45. Cruise missile 3M-14 Kalibr
+</p>
+<p>
+2.46. Cruise missile 3M-54 Kalibr
+</p>
+<p>
+2.47. Cruise missile AGM-86C CALCM
+</p>
+<p>
+2.48. Hypersonic missile Kh-47M2 Kinzhal
+</p>
+<p>
+2.49. Anti-radiation missile Kh-25MPU
+</p>
+<p>
+2.50. Air-to-surface missile Kh-29T
+</p>
+<p>
+2.51. Anti-radiation missile Kh-31PD
+</p>
+<p>
+2.52. Cruise missile Kh-32
+</p>
+<p>
+2.53. Cruise missile Kh-35
+</p>
+<p>
+2.54. Air-to-surface missile Kh-38ML
+</p>
+<p>
+2.55. Anti-radiation missile Kh-58UShKE
+</p>
+<p>
+2.56. Air-to-surface missile Kh-59M
+</p>
+<p>
+2.57. Air-to-surface missile AGM-65 Maverick
+</p>
+<p>
+2.58. Air-to-surface missile AGM-114 Hellfire
+</p>
+<p>
+2.59. Anti-radiation missile AGM-88 HARM
+</p>
+<p>
+2.60. Cruise missile Taurus KEPD 350
+</p>
+<p>
+2.61. Cruise missile Storm Shadow
+</p>
+<p>
+2.62. Anti-aircraft missile 5V55R
+</p>
+<p>
+2.63. Decoy missile ADM-141C iTALD
+</p>
+<p>
+Chapter 3 Scattering characteristics of ground objects
+</p>
+<p>
+3.1. Influence of the underlying surface on the scattering characteristics of a ground object
+</p>
+<p>
+3.2. Main battle tank T-90
+</p>
+<p>
+3.3. Main battle tank Leopard-2
+</p>
+<p>
+3.4. Main battle tank M1 Abrams
+</p>
+<p>
+3.5. Buk target acquisition radar 9S18M1
+</p>
+<p>
+3.6. Buk command post vehicle 9S470
+</p>
+<p>
+3.7. Buk transporter erector launcher and radar 9A310M1
+</p>
+<p>
+3.8. S-300PS transporter erector launcher 5P85D
+</p>
+<p>
+3.9. S-300PS transporter erector launcher 5P85S
+</p>
+<p>
+3.10. S-300PS fire control system 30N6
+</p>
+<p>
+3.11. S-300PS low altitude acquisition radar 76N6
+</p>
+<p>
+3.12. S-300PS command post vehicle 54K6
+</p>
+<p>
+3.13. S-300V transporter erector launcher and radar 9A83
+</p>
+<p>
+3.14. S-300V command post vehicle 9S457
+</p>
+<p>
+3.15. S-200 launcher 5P72
+</p>
+<p>
+3.16. Combat vehicle 2S6 of anti-aircraft gun-missile system 2K22 Tunguska
+</p>
+<p>
+3.17. Iskander launcher 9P78-1
+</p>
+<p>
+3.18. Air surveillance radar ST-68U
+</p>
+<p>
+3.19. Radar P-18
+</p>
+<p>
+3.20. Ropucha-class landing ship
+</p>
+<p>
+Conclusion
+</p>
+<p>
+References
+</p>
+<p>
+Index
+</p>
+
+
+
+<br clear=all />
+<div align=right>
+<a href="index.html">Back to Home</a>
+</div>
+
+<hr size=1 noshade>
+<p align=center>If you need more information, please contact us via email info@radar.dinos.net.<p>
+
+</div><div class="main-right">
+</div></div>
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">Scattering Characteristics of Aerial and Ground Radar Objects (2024)</div>
+      <img src="img/book6.png" style="height: 80vh;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">Scattering Characteristics Of Unmanned Aerial
+Vehicles (Math Modeling) (2022)</div>
+      <img src="img/book4.png" style="height: 80vh;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">HANDBOOK: Scattering Characteristics of Aerial and
+Ground Radar Objects (2019)</div>
+      <img src="img/book3.png" style="height: 80vh;">
+    </div>
+    
+    <div class="mySlides">
+      <div class="numbertext">Electromagnetic Wave  Scattering by Aerial  and Ground Radar Objects (2014)</div>
+      <img src="img/book2.png" style="height: 80vh;">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">Electromagnetic Wave  Scattering by Aerial  and Ground Radar Objects (2009)</div>
+      <img src="img/book1.png" style="height: 80vh;">
+    </div>
+    
+  </div>
+</div>
+
+<script>
+function openModal() {
+  document.getElementById('myModal').style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById('myModal').style.display = "none";
+}
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
+</script>
+
+</body>
+</html>
